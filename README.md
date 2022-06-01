@@ -1,9 +1,9 @@
 # Food Ordering App Backend
-This repository contains backend part of [Food Ordering App](https://github.com/DomSas/Food-Ordering-App) to communicate with Stripe for online payments. Tutorial is available on this Medium blog.
+This repository contains backend part of [Food Ordering App](https://github.com/DomSas/Food-Ordering-App) that uses Node.js to communicate with Stripe for online payments. Tutorial is available on [this Medium blog](https://medium.com/the-web-tub/online-payments-with-monaca-react-framework7-and-express-backend-2e0801f55053).
 
 ### Files
 
-`index.js` - contains code for Express server  
+`index.js` - contains code for Node.js Express server  
 `Procfile` - description for Heroku deployment to determine how to start the app
 
 ### How to use
